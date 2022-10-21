@@ -17,7 +17,8 @@ While there are some online corpora containing figured bass pieces, for example
 
  * https://github.com/DCMLab/dcml_corpora which contains the trio sonatas
 Op. 1-4 by Arcangelo Corelli
- * https://tobis-notenarchiv.de/ e.g. with songs from Schemellis Gesangbuch)
+ * https://tobis-notenarchiv.de/ (e.g. with songs from Schemellis Gesangbuch)
+
 they usually have some problems:
  * they encompass very little basso continuo works,
  * with very different formattings (e.g. not using the figured bass MusicXML tags but text tags for figures),
