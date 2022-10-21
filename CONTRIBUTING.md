@@ -3,18 +3,19 @@
 For contributing to this dataset, please follow this procedure:
 
 1. Pick a piece containing a figured bass line (if unsure, please refer to the table
-   at the bottom ot this document), ideally with 0 to 2 additional parts.
+   at the bottom of this document), ideally with 0 to 2 additional parts.
 2. Make sure the score you use is either under MIT license or (even better) public domain.
 3. Make sure the piece has not been added to the repository (refer to README.md) yet.
 4. Using MuseScore 3, enter the piece into the software with the figured
    bass line using MuseScore's figured bass function
    (refer to https://musescore.org/en/handbook/3/figured-bass).
-5. Save as both uncompressed MuseScore 3 file (name.mscx) and MusicXML (name.musicxml).
+5. Save as both uncompressed MuseScore 3 file (`[name].mscx`) and MusicXML (`[name].musicxml`).
 6. Check again that the MusicXML file and the MuseScore file contain the same
-   information.
+   information. (Sometimes, information is lost when converting between individual formats.)
 7. The file name must follow the following convention:
    * `[composer]_[piece identifier].xyz`
 8. Create a new branch with the file name without file extension, e.g. `[composer]_[piece identifier]`.
+   For more detailed information about the `[piece identifier]`, please refer to the table below.
 9. Update the README with the new file. 
 10. Make a pull request, ideally your new branch should consist of exactly one commit,
    to keep the repo history clean.
