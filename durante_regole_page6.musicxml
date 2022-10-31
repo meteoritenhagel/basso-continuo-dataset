@@ -8,7 +8,7 @@
     <creator type="composer">Francesco Durante</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2022-10-28</encoding-date>
+      <encoding-date>2022-10-31</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>
@@ -76,12 +76,12 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="160.07">
+    <measure number="1" width="159.48">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>50.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <top-system-distance>170.00</top-system-distance>
           </system-layout>
@@ -130,7 +130,7 @@
           </figure>
         <duration>1</duration>
         </figured-bass>
-      <note default-x="112.12" default-y="-5.00">
+      <note default-x="111.76" default-y="-5.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -141,7 +141,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="2" width="61.59">
+    <measure number="2" width="62.18">
       <note default-x="13.00" default-y="-25.00">
         <pitch>
           <step>C</step>
@@ -151,8 +151,11 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+        </barline>
       </measure>
-    <measure number="3" width="89.99">
+    <measure number="3" width="89.40">
       <figured-bass>
         <figure>
           <figure-number>8</figure-number>
@@ -184,7 +187,7 @@
           </figure>
         <duration>1</duration>
         </figured-bass>
-      <note default-x="42.04" default-y="0.00">
+      <note default-x="41.68" default-y="0.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -195,7 +198,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="4" width="61.39">
+    <measure number="4" width="61.98">
       <note default-x="13.96" default-y="-20.00">
         <pitch>
           <step>D</step>
@@ -205,8 +208,11 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+        </barline>
       </measure>
-    <measure number="5" width="89.99">
+    <measure number="5" width="89.40">
       <figured-bass>
         <figure>
           <figure-number>8</figure-number>
@@ -238,7 +244,7 @@
           </figure>
         <duration>1</duration>
         </figured-bass>
-      <note default-x="42.04" default-y="5.00">
+      <note default-x="41.68" default-y="5.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -249,7 +255,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="6" width="61.39">
+    <measure number="6" width="61.98">
       <note default-x="13.96" default-y="-15.00">
         <pitch>
           <step>E</step>
@@ -259,8 +265,11 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+        </barline>
       </measure>
-    <measure number="7" width="89.99">
+    <measure number="7" width="89.40">
       <figured-bass>
         <figure>
           <figure-number>8</figure-number>
@@ -291,7 +300,7 @@
           </figure>
         <duration>1</duration>
         </figured-bass>
-      <note default-x="42.04" default-y="10.00">
+      <note default-x="41.68" default-y="10.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -302,7 +311,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="8" width="61.39">
+    <measure number="8" width="61.98">
       <note default-x="13.96" default-y="-10.00">
         <pitch>
           <step>F</step>
@@ -312,8 +321,11 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+        </barline>
       </measure>
-    <measure number="9" width="89.99">
+    <measure number="9" width="89.40">
       <figured-bass>
         <figure>
           <figure-number>8</figure-number>
@@ -345,7 +357,7 @@
           </figure>
         <duration>1</duration>
         </figured-bass>
-      <note default-x="42.04" default-y="-20.00">
+      <note default-x="41.68" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -356,7 +368,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="10" width="61.39">
+    <measure number="10" width="61.98">
       <note default-x="13.96" default-y="-5.00">
         <pitch>
           <step>G</step>
@@ -366,8 +378,11 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+        </barline>
       </measure>
-    <measure number="11" width="89.99">
+    <measure number="11" width="89.40">
       <figured-bass>
         <figure>
           <figure-number>8</figure-number>
@@ -399,7 +414,7 @@
           </figure>
         <duration>1</duration>
         </figured-bass>
-      <note default-x="42.04" default-y="-15.00">
+      <note default-x="41.68" default-y="-15.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -410,7 +425,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="12" width="61.39">
+    <measure number="12" width="61.98">
       <note default-x="13.96" default-y="0.00">
         <pitch>
           <step>A</step>
@@ -420,6 +435,9 @@
         <voice>1</voice>
         <type>whole</type>
         </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+        </barline>
       </measure>
     <measure number="13" width="252.61">
       <figured-bass>

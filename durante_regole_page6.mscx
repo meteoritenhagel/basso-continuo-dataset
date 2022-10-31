@@ -219,6 +219,9 @@ nasce dall’ 8a</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -266,6 +269,7 @@ nasce dall’ 8a</text>
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.6</minDistance>
             </FiguredBass>
           </voice>
         </Measure>
@@ -278,6 +282,9 @@ nasce dall’ 8a</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -325,6 +332,7 @@ nasce dall’ 8a</text>
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.6</minDistance>
             </FiguredBass>
           </voice>
         </Measure>
@@ -337,6 +345,9 @@ nasce dall’ 8a</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -395,6 +406,9 @@ nasce dall’ 8a</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -442,6 +456,7 @@ nasce dall’ 8a</text>
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.6</minDistance>
             </FiguredBass>
           </voice>
         </Measure>
@@ -454,6 +469,9 @@ nasce dall’ 8a</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -501,6 +519,7 @@ nasce dall’ 8a</text>
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.6</minDistance>
             </FiguredBass>
           </voice>
         </Measure>
@@ -513,6 +532,9 @@ nasce dall’ 8a</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -563,6 +585,7 @@ nasce dall’ 8a</text>
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.6</minDistance>
             </FiguredBass>
           </voice>
         </Measure>
